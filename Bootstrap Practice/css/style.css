@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.login-form{
+    width: 550px;
+}
+
+i{
+    font-size: 300px !important;
+}
+
+.font-icon{
+    
+background: -webkit-linear-gradient(top left, red, yellow);
+background: -o-linear-gradient(top left, red, yellow);
+background: linear-gradient(to bottom right, red, yellow);
+
+}

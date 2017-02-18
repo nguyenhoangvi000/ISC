@@ -1,0 +1,104 @@
+
+html{overflow-y:scroll;}
+
+body{
+    margin: 0; 
+    padding: 0;
+    font-size:13px; 
+    font-family:Georgia, "Times New Roman", Times, serif !important; 
+    color:#979797; 
+    background-color:#FFFFFF;
+}
+p{
+    line-height: 1.7em;
+}
+
+.container{
+    width: 960px !important;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.header{
+    padding: 30px 0;
+}
+
+nav ul{
+    list-style-type: none !important;
+}
+
+nav ul li{
+    float: right;
+}
+
+.img-80{
+    float:left;
+    margin: 0 10px 10px 0;
+    padding: 4px;
+    border: 1px solid #DEDEDE;
+}
+
+
+#sub-nav{
+    float: left;
+}
+#sub-nav ul {
+    margin: 0;
+    padding:0;
+}
+
+
+#logo-title{
+    color: #C0BAB6;
+    text-decoration: none;
+}
+
+#main-nav ul li{
+    float: right;
+    margin-right: 25px;
+    text-transform: uppercase;
+    color: #979797;
+}
+
+
+
+#main-nav ul li a{
+    text-decoration: none;
+    color: #C0BAB6;
+}
+
+.more{
+    float: right;
+}
+
+.more a{
+    color: #FF9900;
+    text-decoration: none;
+}
+
+#sub-nav ul{
+}
+
+#sub-nav ul li{
+    float: left !important;
+    width: 289.98px;
+    margin: 5px 0;
+    padding: 0 !important;
+    border-bottom: 1px dotted #979797;
+}
+
+#sub-nav ul li a{
+    color: #979797;
+    text-decoration: none;
+}
+
+address{
+    color: #979797;
+}
+
+.last{
+    margin-right: 0 !important;
+}

@@ -1,0 +1,7 @@
+.nav-bar ul{
+    list-style-type: none !important;
+}
+
+.nav-bar ul li{
+    float: left;
+}

@@ -1,0 +1,13 @@
+{
+  "name": "calculator_nodejs",
+  "version": "0.0.0",
+  "description": "calculator_nodejs",
+  "main": "server.js",
+  "author": {
+    "name": "Me"
+  },
+  "dependencies": {
+    "express": "^4.14.1",
+    "jade": "^1.11.0"
+  }
+}
